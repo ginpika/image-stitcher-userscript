@@ -6,6 +6,14 @@ A Tampermonkey userscript for extracting and stitching images from web pages int
 
 ---
 
+## 效果展示
+
+### 操作前
+![操作前](before.png)
+
+### 操作后
+![操作后](after.png)
+
 ## 中文说明
 
 ### 功能特点
